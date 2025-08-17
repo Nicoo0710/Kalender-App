@@ -12,6 +12,7 @@ Einfache Kalender-App:
 - Plugin: @ebarooni/capacitor-calendar
 
 ## Development (Web)
+- npm install
 - npm run build
 - npm run preview
 
