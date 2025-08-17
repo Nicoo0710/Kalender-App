@@ -10,14 +10,14 @@ dist/
 .vscode/
 .idea/
 
-# iOS (Capacitor / Xcode outputs)
+# iOS (Capacitor / Xcode)
 ios/DerivedData/
 ios/build/
 ios/App/build/
 ios/App/Pods/
 ios/App/Podfile.lock
 
-# Android (ok, falls später ergänzt)
+# Android 
 android/.gradle/
 android/build/
 android/app/build/
