@@ -1,7 +1,4 @@
 // Globale Schalter für das Verhalten in Browser/Simulator/Gerät
-
-// Auf "false" lassen, solange du im Simulator testest.
-// Später auf einem echten iPhone auf "true" stellen, um den nativen Kalender zu benutzen.
 export const USE_NATIVE = false as boolean;
 
 // Hilfsfunktion für Datumsausgabe "dd.mm.yyyy hh:mm"
