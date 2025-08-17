@@ -12,11 +12,10 @@ Einfache Kalender-App:
 - Plugin: @ebarooni/capacitor-calendar
 
 ## Development (Web)
-npm run build
-npm run preview
+- npm run build
+- npm run preview
 
 ## iOS starten
-\`\`\`bash
-npx cap sync ios
-npx cap open ios
-\`\`\`
+- bash npx cap sync ios
+- npx cap open ios
+
