@@ -12,10 +12,8 @@ Einfache Kalender-App:
 - Plugin: @ebarooni/capacitor-calendar
 
 ## Development (Web)
-\`\`\`bash
-npm install
-npm run dev
-\`\`\`
+npm run build
+npm run preview
 
 ## iOS starten
 \`\`\`bash
