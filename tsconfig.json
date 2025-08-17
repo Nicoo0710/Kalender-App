@@ -15,7 +15,7 @@
     "src/**/*.ts",
     "src/**/*.d.ts",
     "src/**/*.vue",
-    "*.d.ts"                 // ← Shim-Dateien im Projekt-Root
+    "*.d.ts"
   ],
 
   "references": [
