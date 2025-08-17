@@ -1,0 +1,10 @@
+{
+  "appId": "com.nico.kalenderapp",
+  "appName": "Kalender-App",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true
+    }
+  }
+}

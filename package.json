@@ -1,0 +1,39 @@
+{
+  "name": "capacitor-app",
+  "version": "1.0.0",
+  "description": "An Amazing Capacitor App",
+  "type": "module",
+  "keywords": [
+    "capacitor",
+    "mobile"
+  ],
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/camera": "^7.0.2",
+    "@capacitor/clipboard": "^7.0.2",
+    "@capacitor/core": "^7.4.2",
+    "@capacitor/ios": "^7.4.2",
+    "@capacitor/preferences": "^7.0.2",
+    "@capacitor/splash-screen": "latest",
+    "@ebarooni/capacitor-calendar": "^7.2.0",
+    "@ionic/core": "^8.6.5",
+    "@ionic/vue": "^8.6.5",
+    "@ionic/vue-router": "^8.6.5",
+    "@popperjs/core": "^2.11.8",
+    "v-calendar": "^3.1.2",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.2",
+    "@types/node": "^24.2.0",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^5.4.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
